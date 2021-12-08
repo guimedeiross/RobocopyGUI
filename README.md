@@ -1,6 +1,8 @@
-# Pré-requisitos: .NET 3.5.
+# Pré-requisitos:
 
-As seguintes funções já estão marcadas por padrão no programa de robocopy:
+.NET 3.5.
+
+### As seguintes funções já estão marcadas por padrão no programa de robocopy:
 
 /E Copia diretorios e subdiretorios, inclusive se estiver vazio
 
